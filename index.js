@@ -11,7 +11,7 @@ function yourAnimal() {
 function add2(n) {
   return n + 2
 }
-var theFunk = theFunk()
+var theFunk = funkyFunction()
 
 function funkyFunction(){
 return function theFunk() {
