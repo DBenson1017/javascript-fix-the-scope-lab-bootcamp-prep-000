@@ -14,10 +14,10 @@ function add2(n) {
 var theFunk = funkyFunction()
 
 function funkyFunction(){
-return function() theFunk(){
-}}
-function theFunk(){
-  return 'FUNKY!'
+return function theFunk()
+return 'FUNKY!'}
+}
+
 }
 
 
