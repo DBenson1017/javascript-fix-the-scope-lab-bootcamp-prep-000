@@ -18,7 +18,7 @@ return function theFunk(){ }
 }
 
 function theFunk(){
-  return "FUNKY"
+  console.log("FUNKY")
 }
 
 
