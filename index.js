@@ -15,7 +15,7 @@ var theFunk = funkyFunction()
 
 function funkyFunction(){
 return function theFunk()
-console.log('FUNKY!')}
+  return 'FUNKY!' }
 }
 
 }
